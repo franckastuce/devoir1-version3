@@ -1,0 +1,23 @@
+/*-- mise en page global--*/
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: rgb(238, 238, 238);
+}
+
+.container{
+    margin: 3px;
+    padding: 5px;
+}
+
+.container.p{
+    text-align: justify;
+}
+.card-text{
+    text-align: justify;
+}
+.cartd-body{
+    text-align: justify;
+}
